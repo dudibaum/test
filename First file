@@ -1,6 +1,5 @@
 # Ridge Regression with Gradient Descent - Interactive Demo
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 import numpy as np
 import matplotlib.pyplot as plt
 import ipywidgets as widgets
